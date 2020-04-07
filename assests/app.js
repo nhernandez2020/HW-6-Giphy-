@@ -1,4 +1,4 @@
-var animalList = ["cat", "dog", "lion", "bat", "tiger", "bear"]
+var animallist = ["cat", "dog", "lion", "bat", "tiger", "bear"]
 
 function createbutton() {
     console.log("Create buttons from array")
